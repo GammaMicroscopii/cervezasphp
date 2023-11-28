@@ -1,0 +1,7 @@
+Instrucciones para corregir
+
+1. Crea una base de datos llamada "dwes_cervezas" en phpMyAdmin.
+
+2. Importa dentro de ella el archivo "cervezas.sql" que viene dentro del zip.
+
+3. En el archivo "Credenciales.php", dentro de Modelo, usa la constante DSN acorde al sistema en el que corrijas y comenta la otra. Ajusta también usuario y password.
